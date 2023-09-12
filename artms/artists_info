@@ -1,0 +1,331 @@
+[
+    {
+        "name": "ANGELICO, Fra",
+        "born_died": "(c. 1400-1455)",
+        "period": "Early Renaissance",
+        "school": "Italian painter  (Florence)",
+        "link": "https://www.wga.hu/html/a/angelico/index.html"
+    },
+    {
+        "name": "BLAKE, William",
+        "born_died": "(1757-1827)",
+        "period": "Romanticism",
+        "school": "English graphic artist",
+        "link": "https://www.wga.hu/html/b/blake/index.html"
+    },
+    {
+        "name": "BOSCH, Hieronymus",
+        "born_died": "(c. 1450-1516)",
+        "period": "Northern Renaissance",
+        "school": "Netherlandish painter",
+        "link": "https://www.wga.hu/html/b/bosch/index.html"
+    },
+    {
+        "name": "BOTTICELLI, Sandro",
+        "born_died": "(1445-1510)",
+        "period": "Early Renaissance",
+        "school": "Italian painter  (Florence)",
+        "link": "https://www.wga.hu/html/b/botticel/index.html"
+    },
+    {
+        "name": "BOUGUEREAU, William-Adolphe",
+        "born_died": "(1825-1905)",
+        "period": "Realism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/b/bouguere/index.html"
+    },
+    {
+        "name": "CÉZANNE, Paul",
+        "born_died": "(1839-1906)",
+        "period": "Impressionism",
+        "school": "French painter  (Aix-en-Provence)",
+        "link": "https://www.wga.hu/html/c/cezanne/index.html"
+    },
+    {
+        "name": "CIMABUE",
+        "born_died": "(c. 1240-c. 1302)",
+        "period": "Medieval",
+        "school": "Italian painter  (Florence)",
+        "link": "https://www.wga.hu/html/c/cimabue/index.html"
+    },
+    {
+        "name": "CLAUDE LORRAIN",
+        "born_died": "(1604-1682)",
+        "period": "Baroque",
+        "school": "French painter  (Rome)",
+        "link": "https://www.wga.hu/html/c/claude/index.html"
+    },
+    {
+        "name": "CONSTABLE, John",
+        "born_died": "(1776-1837)",
+        "period": "Romanticism",
+        "school": "English painter",
+        "link": "https://www.wga.hu/html/c/constabl/index.html"
+    },
+    {
+        "name": "COROT, Jean-Baptiste Camille",
+        "born_died": "(1796-1875)",
+        "period": "Realism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/c/corot/index.html"
+    },
+    {
+        "name": "COURBET, Gustave",
+        "born_died": "(1819-1877)",
+        "period": "Realism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/c/courbet/index.html"
+    },
+    {
+        "name": "DÜRER, Albrecht",
+        "born_died": "(1471-1528)",
+        "period": "Northern Renaissance",
+        "school": "German painter",
+        "link": "https://www.wga.hu/html/d/durer/index.html"
+    },
+    {
+        "name": "DAVID, Jacques-Louis",
+        "born_died": "(1748-1825)",
+        "period": "Neoclassicism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/d/david_j/index.html"
+    },
+    {
+        "name": "DEGAS, Edgar",
+        "born_died": "(1834-1917)",
+        "period": "Impressionism",
+        "school": "French painter  (Paris)",
+        "link": "https://www.wga.hu/html/d/degas/index.html"
+    },
+    {
+        "name": "DELACROIX, Eugène",
+        "born_died": "(1798-1863)",
+        "period": "Romanticism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/d/delacroi/index.html"
+    },
+    {
+        "name": "EYCK, Jan van",
+        "born_died": "(before 1395-1441)",
+        "period": "Northern Renaissance",
+        "school": "Flemish painter",
+        "link": "https://www.wga.hu/html/e/eyck_van/jan/index.html"
+    },
+    {
+        "name": "FRIEDRICH, Caspar David",
+        "born_died": "(1774-1840)",
+        "period": "Romanticism",
+        "school": "German painter",
+        "link": "https://www.wga.hu/html/f/friedric/index.html"
+    },
+    {
+        "name": "GAUGUIN, Paul",
+        "born_died": "(1848-1903)",
+        "period": "Impressionism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/g/gauguin/index.html"
+    },
+    {
+        "name": "GENTILESCHI, Artemisia",
+        "born_died": "(1593-c. 1653)",
+        "period": "Baroque",
+        "school": "Italian painter",
+        "link": "https://www.wga.hu/html/g/gentiles/artemisi/index.html"
+    },
+    {
+        "name": "GIOTTO di Bondone",
+        "born_died": "(1267-1337)",
+        "period": "Medieval",
+        "school": "Italian painter  (Florence)",
+        "link": "https://www.wga.hu/html/g/giotto/index.html"
+    },
+    {
+        "name": "GOGH, Vincent van",
+        "born_died": "(1853-1890)",
+        "period": "Impressionism",
+        "school": "Dutch painter",
+        "link": "https://www.wga.hu/html/g/gogh_van/index.html"
+    },
+    {
+        "name": "GRECO, El",
+        "born_died": "(1541-1614)",
+        "period": "Mannerism",
+        "school": "Spanish painter  (Toledo)",
+        "link": "https://www.wga.hu/html/g/greco_el/index.html"
+    },
+    {
+        "name": "HALS, Frans",
+        "born_died": "(1580-1666)",
+        "period": "Baroque",
+        "school": "Dutch painter  (Haarlem)",
+        "link": "https://www.wga.hu/html/h/hals/frans/index.html"
+    },
+    {
+        "name": "HOGARTH, William",
+        "born_died": "(1697-1764)",
+        "period": "Baroque",
+        "school": "English painter",
+        "link": "https://www.wga.hu/html/h/hogarth/index.html"
+    },
+    {
+        "name": "HOMER, Winslow",
+        "born_died": "(1836-1910)",
+        "period": "Realism",
+        "school": "American painter",
+        "link": "https://www.wga.hu/html/h/homer/index.html"
+    },
+    {
+        "name": "INGRES, Jean-Auguste-Dominique",
+        "born_died": "(1780-1867)",
+        "period": "Neoclassicism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/i/ingres/index.html"
+    },
+    {
+        "name": "KLIMT, Gustav",
+        "born_died": "(1862-1918)",
+        "period": "Art Nouveau",
+        "school": "Austrian painter",
+        "link": "https://www.wga.hu/html/k/klimt/index.html"
+    },
+    {
+        "name": "LA TOUR, Georges de",
+        "born_died": "(1593-1652)",
+        "period": "Baroque",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/l/la_tour/georges/index.html"
+    },
+    {
+        "name": "LEONARDO da Vinci",
+        "born_died": "(1452-1519)",
+        "period": "Early Renaissance",
+        "school": "Italian painter",
+        "link": "https://www.wga.hu/html/l/leonardo/index.html"
+    },
+    {
+        "name": "MANTEGNA, Andrea",
+        "born_died": "(1431-1506)",
+        "period": "Early Renaissance",
+        "school": "Italian painter",
+        "link": "https://www.wga.hu/html/m/mantegna/index.html"
+    },
+    {
+        "name": "MICHELANGELO Buonarroti",
+        "born_died": "(1475-1564)",
+        "period": "High Renaissance",
+        "school": "Italian sculptor",
+        "link": "https://www.wga.hu/html/m/michelan/index.html"
+    },
+    {
+        "name": "MONET, Claude",
+        "born_died": "(1840-1926)",
+        "period": "Impressionism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/m/monet/index.html"
+    },
+    {
+        "name": "MOREAU, Gustave",
+        "born_died": "(1826-1898)",
+        "period": "Realism",
+        "school": "French painter  (Paris)",
+        "link": "https://www.wga.hu/html/m/moreau_g/index.html"
+    },
+    {
+        "name": "MUNCH, Edvard",
+        "born_died": "(1863-1944)",
+        "period": "Art Nouveau",
+        "school": "Norwegian painter",
+        "link": "https://www.wga.hu/html/m/munch/index.html"
+    },
+    {
+        "name": "PIERO DELLA FRANCESCA",
+        "born_died": "(1416-1492)",
+        "period": "Early Renaissance",
+        "school": "Italian painter",
+        "link": "https://www.wga.hu/html/p/piero/index.html"
+    },
+    {
+        "name": "POUSSIN, Nicolas",
+        "born_died": "(1594-1665)",
+        "period": "Baroque",
+        "school": "French painter  (Rome)",
+        "link": "https://www.wga.hu/html/p/poussin/index.html"
+    },
+    {
+        "name": "RAFFAELLO Sanzio",
+        "born_died": "(1483-1520)",
+        "period": "High Renaissance",
+        "school": "Italian painter",
+        "link": "https://www.wga.hu/html/r/raphael/index.html"
+    },
+    {
+        "name": "RENOIR, Pierre-Auguste",
+        "born_died": "(1841-1919)",
+        "period": "Impressionism",
+        "school": "French painter",
+        "link": "https://www.wga.hu/html/r/renoir/index.html"
+    },
+    {
+        "name": "ROSSETTI, Dante Gabriel",
+        "born_died": "(1828-1882)",
+        "period": "Romanticism",
+        "school": "English painter",
+        "link": "https://www.wga.hu/html/r/rossetti/index.html"
+    },
+    {
+        "name": "SEURAT, Georges",
+        "born_died": "(1859-1891)",
+        "period": "Impressionism",
+        "school": "French painter  (Paris)",
+        "link": "https://www.wga.hu/html/s/seurat/index.html"
+    },
+    {
+        "name": "SIMONE MARTINI",
+        "born_died": "(1280/85-1344)",
+        "period": "Medieval",
+        "school": "Italian painter  (Siena)",
+        "link": "https://www.wga.hu/html/s/simone/index.html"
+    },
+    {
+        "name": "TINTORETTO",
+        "born_died": "(1518-1594)",
+        "period": "Mannerism",
+        "school": "Italian painter  (Venice)",
+        "link": "https://www.wga.hu/html/t/tintoret/index.html"
+    },
+    {
+        "name": "TIZIANO Vecellio",
+        "born_died": "(1490-1576)",
+        "period": "High Renaissance",
+        "school": "Italian painter  (Venice)",
+        "link": "https://www.wga.hu/html/t/tiziano/index.html"
+    },
+    {
+        "name": "UCCELLO, Paolo",
+        "born_died": "(1397-1475)",
+        "period": "Early Renaissance",
+        "school": "Italian painter  (Florence)",
+        "link": "https://www.wga.hu/html/u/uccello/index.html"
+    },
+    {
+        "name": "VERMEER, Johannes",
+        "born_died": "(1632-1675)",
+        "period": "Baroque",
+        "school": "Dutch painter  (Delft)",
+        "link": "https://www.wga.hu/html/v/vermeer/index.html"
+    },
+    {
+        "name": "WATTEAU, Jean-Antoine",
+        "born_died": "(1684-1721)",
+        "period": "Rococo",
+        "school": "French painter  (Paris)",
+        "link": "https://www.wga.hu/html/w/watteau/antoine/index.html"
+    },
+    {
+        "name": "WHISTLER, James Abbot McNeill",
+        "born_died": "(1834-1903)",
+        "period": "Impressionism",
+        "school": "American painter  (London)",
+        "link": "https://www.wga.hu/html/w/whistler/index.html"
+    }
+]
